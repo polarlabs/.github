@@ -1,6 +1,6 @@
 name: Set BUILD_NUMBER
 
-on: [push, pull_request]
+on: [workflow_call]
 
 env:
   CURL_OPTIONS: "--fail-with-body --location --show-error --silent"
