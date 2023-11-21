@@ -1,0 +1,5 @@
+{
+  "name": "Polarlabs Workflow to set build number",
+  "description": "Sets the build number.",
+  "iconName": "octicons heart-fill",
+}
